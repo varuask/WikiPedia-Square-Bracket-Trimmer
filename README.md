@@ -3,7 +3,7 @@ An application developed to trim the square brackets after each paragraph comple
 
 # Specifications
 
-The projects includes the use of simplem html for display and user experience as well as tad bit of jquery further improving the user experience ,also the regex library is used with javascript language for implementing the main functionality of the app and finally css for styling the webApp.
+The projects includes the use of simple html for display and user experience as well as tad bit of jquery further improving the user experience ,also the regex library is used with javascript language for implementing the main functionality of the app and finally css for styling the webApp.
 
 ## Stack
 
