@@ -1,0 +1,27 @@
+.<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demolish those [123] for Wiki</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <link rel='stylesheet' href='style.css'/>
+<body>
+    <div id='header'>
+    <h1>[] BRACKETS REMOVER</h1>
+    </div>
+    <h3>Paste your text here:</h3>
+    <textarea rows='8' cols='100' id='actualText'></textarea><br><br>
+    <button type="button" onclick="bracRemover()" id='button1'>Click to remove the brackets</button>
+    <div id='aftermath'>
+    <h3>Here is your new text:</h3>
+    <textarea rows='8' cols='100' name='newText' id='newArea' readonly></textarea><br><br>
+    <button id='button2'>Click to copy to the clipboard</button>
+    </div>
+    <div id='footer'>
+    <h4>Saurav Jha -kkvaruas@gmail.com &copy; 2018</h4>
+    </div>
+    <script src='app.js'></script>
+  </body>
+</html>

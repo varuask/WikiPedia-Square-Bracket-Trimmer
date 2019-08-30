@@ -1,0 +1,38 @@
+body{
+  background-color:#B1C1C2;
+  vertical-align:center;
+  text-align:center;
+  overflow:hidden;
+}
+
+#header{
+  background-color:#FD7844;
+  margin-top:-15px;
+  margin-left:-10px;
+  margin-right:-10px;
+  border-style:solid;
+  color:#1B201B;
+}
+
+h3{
+  border-style:solid;
+  width:15%;
+  float:center;
+  background-color:#2FFF31;
+  color:#000000;
+  margin:auto;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+
+#footer{
+  background-color:#2F3757;
+  color:white;
+  margin-top:230px;
+  margin-bottom:5px;
+  height:10%;
+  padding-top:0.5px;
+  padding-bottom:1px;
+
+}
